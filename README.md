@@ -1,5 +1,5 @@
 # Database-Project
-# of hours worked individually for...
+Number of hours worked individually for...
   Rajeev:
   Shane:
-# of hours worked together:
+Number of hours worked together:
